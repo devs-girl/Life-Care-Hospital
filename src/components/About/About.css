@@ -1,0 +1,22 @@
+.about-area{
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+    padding-top: 50px;
+}
+
+.about-text{
+    background-color: #081839;
+    text-align: left;
+    padding: 50px ;
+ 
+}
+.content{
+    color: #19BDE4;
+}
+.image{
+    background-position: center;
+    background-size: cover;
+}
+.area{
+text-align: justify;
+}
